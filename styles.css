@@ -1,0 +1,16 @@
+textarea {
+  font-family: seriff;
+  font-size: 1.125em;
+  color: #424242;
+  padding: 1.5em;
+  word-break: break-word;
+  word-wrap: break-word;
+  text-align: justify;
+  border: 1px solid #ddd;
+  outline: none;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+  height: 600px;
+}
